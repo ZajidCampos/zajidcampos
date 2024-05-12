@@ -4,7 +4,7 @@
    <b>Hi there! 👋</b>
 </h1>
 
-I am Zajid Campos, a software engineer with more than 5 years of experience in web development and mobile development. With an interest very similar to UX.
+I am Zajid Campos, a software engineer with more than 5 years of experience in web development and mobile development. 
 UX designer and Flutter dev [La Comer](https://www.lacomer.com.mx/) and Co-founder of [Zeentro](https://www.zeentro.com/)
 <br></br>
 <p align="center" style="margin-top: 20px;">
