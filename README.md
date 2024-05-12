@@ -13,6 +13,8 @@ I currently work as a UX designer and Flutter dev [La Comer](https://www.lacomer
 
 <p align="center" style="margin-top: 20px;">
    <img src="https://github.com/ZajidCampos/zajidcampos/assets/88481739/778e01c9-aff2-4736-be2b-ef561339fa68" alt="Frontend">
+   <img src="https://github.com/ZajidCampos/zajidcampos/assets/88481739/f2d931bd-8aed-4059-99d3-4fc9bd4d5dd5" alt="Backend">
+
 </p>
 
 
@@ -29,4 +31,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+   <img src="https://github.com/ZajidCampos/zajidcampos/assets/88481739/fa390f5c-d222-44ae-9391-df3d41e4339b" alt="Backend">
 -->
