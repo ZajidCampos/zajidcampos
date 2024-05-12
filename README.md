@@ -12,8 +12,7 @@ I currently work as a UX designer and Flutter dev [La Comer](https://www.lacomer
 </p>
 
 <div align="center">
-   <img src="https://github.com/ZajidCampos/zajidcampos/assets/88481739/778e01c9-aff2-4736-be2b-ef561339fa68" alt="Frontend">
-   <img src="https://github.com/ZajidCampos/zajidcampos/assets/88481739/f2d931bd-8aed-4059-99d3-4fc9bd4d5dd5" alt="Backend">
+   <img src="https://github.com/ZajidCampos/zajidcampos/assets/88481739/0e96ba45-f568-415b-9b28-bbfc0367912c" alt="Skills">   
 </div>
 
 
