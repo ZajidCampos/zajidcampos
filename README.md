@@ -16,6 +16,16 @@ I currently work as a UX designer and Flutter dev [La Comer](https://www.lacomer
 </div>
 
 
+<h1 align="center">
+   <b>Contacto 📬</b>
+</h1>
+Puedes contactarme a través de:
+<br></br>
+
+- WhatsApp: [+52 (333) 912-6481](https://wa.me/523339126481)
+- Correo electrónico: [zajidcampos@zeentro.com](mailto:zajidcampos@zeentro.com) 
+- Correo electrónico secundario: [zajidcampos@gmail.com](mailto:zajidcampos@gmail.com)
+
 
 <!--
 **ZajidCampos/zajidcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
