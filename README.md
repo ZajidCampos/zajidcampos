@@ -1,4 +1,7 @@
+![Imagen de perfil](https://github.com/ZajidCampos/zajidcampos/assets/88481739/c7430aca-7b55-4a0c-8383-9f8847499f1b)
+
 ### Hi there 👋
+
 
 <!--
 **ZajidCampos/zajidcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
