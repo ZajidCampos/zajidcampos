@@ -1,6 +1,5 @@
-![Imagen de perfil](https://github.com/ZajidCampos/zajidcampos/assets/88481739/8240eb1f-34d7-46cf-9764-5788da1b6ecf)
+![Imagen de perfil](https://github.com/ZajidCampos/zajidcampos/assets/88481739/874d6837-59f6-4cc3-a62b-b19e07541c29)
 
-#### <center> Hi there 👋 </center>
 
 
 <!--
