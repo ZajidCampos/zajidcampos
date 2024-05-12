@@ -17,14 +17,15 @@ I currently work as a UX designer and Flutter dev [La Comer](https://www.lacomer
 
 
 <h1 align="center">
-   <b>Contacto 📬</b>
+   <b>Contact 📬</b>
 </h1>
-Puedes contactarme a través de:
+
+You can contact me through:
 <br></br>
 
 - WhatsApp: [+52 (333) 912-6481](https://wa.me/523339126481)
-- Correo electrónico: [zajidcampos@zeentro.com](mailto:zajidcampos@zeentro.com) 
-- Correo electrónico secundario: [zajidcampos@gmail.com](mailto:zajidcampos@gmail.com)
+- Email: [zajidcampos@zeentro.com](mailto:zajidcampos@zeentro.com) 
+- Secondary Email: [zajidcampos@gmail.com](mailto:zajidcampos@gmail.com)
 
 
 <!--
