@@ -5,7 +5,7 @@
 </h1>
 
 I am Zajid Campos, a software engineer with more than 5 years of experience in web development and mobile development. 
-UX designer and Flutter dev [La Comer](https://www.lacomer.com.mx/) and Co-founder of [Zeentro](https://www.zeentro.com/)
+I currently work as a UX designer and Flutter dev [La Comer](https://www.lacomer.com.mx/) and Co-founder of [Zeentro](https://www.zeentro.com/)
 <br></br>
 <p align="center" style="margin-top: 20px;">
    <img src="https://github.com/ZajidCampos/zajidcampos/assets/88481739/8d3331f0-7fc3-4b00-9711-75072e5652d0" alt="UX">
