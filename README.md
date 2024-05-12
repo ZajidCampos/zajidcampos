@@ -11,11 +11,11 @@ I currently work as a UX designer and Flutter dev [La Comer](https://www.lacomer
    <img src="https://github.com/ZajidCampos/zajidcampos/assets/88481739/8d3331f0-7fc3-4b00-9711-75072e5652d0" alt="UX">
 </p>
 
-<p align="center" style="margin-top: 20px;">
+<div align="center">
    <img src="https://github.com/ZajidCampos/zajidcampos/assets/88481739/778e01c9-aff2-4736-be2b-ef561339fa68" alt="Frontend">
    <img src="https://github.com/ZajidCampos/zajidcampos/assets/88481739/f2d931bd-8aed-4059-99d3-4fc9bd4d5dd5" alt="Backend">
+</div>
 
-</p>
 
 
 <!--
