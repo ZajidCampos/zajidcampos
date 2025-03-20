@@ -28,6 +28,15 @@ You can contact me through:
 - Secondary Email: [zajidcampos@gmail.com](mailto:zajidcampos@gmail.com)
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zajidcampos&theme=github)
+
+
+
+
+
+
+
+
 <!--
 **ZajidCampos/zajidcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
