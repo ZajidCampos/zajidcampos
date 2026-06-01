@@ -1,19 +1,43 @@
-![Imagen de perfil](https://github.com/ZajidCampos/zajidcampos/assets/88481739/124de0ae-6fa2-461d-a642-f9000f63146d)
+![Imagen de perfil](https://github.com/user-attachments/assets/cd8740e7-4f05-4bab-b610-f08cb253defc)
+
 
 <h1 align="center">
    <b>Hi there! 👋</b>
 </h1>
 
-I am Zajid Campos, a software engineer with more than 5 years of experience in web development and mobile development. 
-I currently work as a UX designer and Flutter dev [La Comer](https://www.lacomer.com.mx/) and Co-founder of [Zeentro](https://www.zeentro.com/)
-<br></br>
-<p align="center" style="margin-top: 20px;">
-   <img src="https://github.com/ZajidCampos/zajidcampos/assets/88481739/8d3331f0-7fc3-4b00-9711-75072e5652d0" alt="UX">
-</p>
+### **Senior Software Engineer & Technical Lead**
+*Transforming complex business requirements into scalable, robust, and beautifully crafted digital solutions.*
 
-<div align="center">
-   <img src="https://github.com/ZajidCampos/zajidcampos/assets/88481739/0e96ba45-f568-415b-9b28-bbfc0367912c" alt="Skills">   
-</div>
+---
+
+### 🚀 About Me
+I am a **Senior Mobile & Backend Developer** / **Technical Lead** with **over 8 years of professional experience**. My engineering philosophy blends a strict adherence to software architecture paradigms with a strong passion for **UX/UI design**, ensuring that systems are not only highly performant and maintainable but also deliver exceptional user experiences.
+
+As a Technical Lead, I have a proven track record of guiding large, cross-functional engineering teams, managing technical migrations, and scaling enterprise-level infrastructures to handle heavy real-time traffic.
+
+---
+
+### 🛠️ Core Expertise & Technical Toolbox
+
+#### **🏗️ Software Architecture**
+*   **Backend:** Hexagonal Architecture (Ports & Adapters), Domain-Driven Design (DDD)
+*   **Frontend & Mobile:** Clean Architecture, Material Design Evolution
+
+#### **☕ Backend Development**
+*   **Languages & Frameworks:** Java, Spring Boot
+*   **Data & Persistence:** JPA, Hibernate, PL/SQL, Redis (Caching & Real-time Sync)
+
+#### **🌐 Mobile & Frontend**
+*   **Frameworks:** Flutter, Cross-platform technical developments
+*   **Focus:** Low-latency logic, responsive layouts, intuitive UX/UI workflows
+
+#### **☁️ DevOps & Infrastructure**
+*   **Cloud Services:** Amazon Web Services (AWS), Google Cloud Platform (GCP)
+*   **On-Premise:** Server management, deployment, and orchestration of RESTful services
+*   **Traffic & Resilience:** Load Balancers, API Gateways, Webhook Synchronization
+*   **Automation:** CI/CD Pipelines, Professional Email Infrastructure (AWS SES)
+
+---
 
 
 <h1 align="center">
@@ -23,7 +47,7 @@ I currently work as a UX designer and Flutter dev [La Comer](https://www.lacomer
 You can contact me through:
 <br></br>
 
-- WhatsApp: [+52 (333) 912-6481](https://wa.me/523339126481)
+- WhatsApp: [+52 (656) 246-5530](https://wa.me/526562465530)
 - Email: [zajidcampos@zeentro.com](mailto:zajidcampos@zeentro.com) 
 - Secondary Email: [zajidcampos@gmail.com](mailto:zajidcampos@gmail.com)
 
